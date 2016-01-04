@@ -1,8 +1,8 @@
 .idea/
 .DStore
 
-app/cache/
-app/logs/
+cache/
+logs/
 
 vendor/
 
