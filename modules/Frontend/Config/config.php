@@ -6,7 +6,7 @@ $module_config = new \Phalcon\Config( array(
 		'controllersDir' => __DIR__ . '/../Controllers/',
 		'modelsDir'      => __DIR__ . '/../Models/',
 		'viewsDir'       => __DIR__ . '/../Views/',
-		'baseUri'        => '/',
+		'baseUri'        => '/phalconbook/',
 		'cryptSalt'      => '@Wl/hzifX+Nmbf&dYow$Cggi0RcBTI=',
 		'publicUrl'      => 'http://localhost/phalconbook'
 	)
