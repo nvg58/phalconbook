@@ -11,8 +11,6 @@ $di['dispatcher'] = function () use ( $di ) {
 
 $di['url']->setBaseUri( '' . $config->application->baseUri . '' );
 
-//var_dump($di['url']->getBaseUri()); die();
-
 $di['view'] = function () {
 	$view = new \Phalcon\Mvc\View();
 	$view->setViewsDir( __DIR__ . '/../Views/Default/' );
