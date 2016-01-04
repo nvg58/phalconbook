@@ -1,0 +1,9 @@
+.idea/
+.DStore
+
+app/cache/
+app/logs/
+
+vendor/
+
+public/files/

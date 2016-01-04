@@ -1,0 +1,16 @@
+{
+  "name": "tekship/phalconbook",
+  "description": "No description.",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "John Nguyen",
+      "email": "john@tekship.co"
+    }
+  ],
+  "require": {
+    "phalcon/devtools": "2.0.x-dev",
+    "phalcon/incubator": "2.0.x-dev"
+  }
+}
